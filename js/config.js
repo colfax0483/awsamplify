@@ -5,6 +5,6 @@ window._config = {
         region: 'us-west-2' // e.g. us-east-2
     },
     api: {
-        invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+	invokeUrl: 'https://www.notion.so/980745e468f74c31807b9eb6bca169ed#3eb2d6359ae445d49fd6f28639ccd9f0' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
